@@ -33,7 +33,7 @@ const ResumeSection = () => {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-border hover:border-primary hover:text-primary font-medium px-8 gap-2"
+                className="border-border hover:border-primary hover:text-secondary font-medium px-8 gap-2"
                 asChild
               >
                 <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">

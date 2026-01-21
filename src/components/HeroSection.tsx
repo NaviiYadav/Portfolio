@@ -105,7 +105,7 @@ const HeroSection = () => {
               <Button
                 size="lg"
                 variant="outline"
-                className="border-border hover:border-primary hover:text-primary font-medium px-8"
+                className="border-border hover:border-primary hover:text-secondary font-medium px-8"
                 asChild
               >
                 <a href="#contact">Let's Talk</a>
