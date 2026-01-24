@@ -28,10 +28,7 @@ const AboutSection = () => {
           </h2>
           
           <p className="text-lg text-muted-foreground leading-relaxed mb-12">
-            I'm a passionate Software Developer with an M.Tech in Artificial Intelligence and Machine Learning. 
-            I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and have a strong track record 
-            of building scalable, high-performance web applications. I'm dedicated to writing clean code, 
-            optimizing performance, and delivering reliable real-world software solutions.
+            I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with hands-on experience in building scalable, cloud-ready web applications. Proficient in RESTful APIs, microservices architecture,database optimization, authentication, and performance tuning. Experienced in version control (Git), and CI/CD pipelines to deliver secure, high-quality software. M.Tech graduate in Artificial Intelligence and Machine Learning
           </p>
 
           <div className="grid md:grid-cols-3 gap-6">
