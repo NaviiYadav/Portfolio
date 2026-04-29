@@ -17,7 +17,7 @@ const experiences = [
   {
     title: "Web Development Intern",
     company: "Techoxa Technologies Pvt. Ltd.",
-    period: "July 2024 – Jan 2025",
+    period: "Jan 2025 – Jun 2025",
     isOngoing: false,
     responsibilities: [
       "Contributed to a single-vendor e-commerce web application",
